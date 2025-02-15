@@ -74,9 +74,6 @@ project-directory/
 - Improve address extraction with NLP models.
 - Create a frontend application for easier user interaction.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contributing
 Feel free to fork this repository and submit pull requests for any enhancements or bug fixes.
 
